@@ -39,18 +39,19 @@ print(name)
 # it needs to be printed back to the user
 # print the type of each var
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
+
+### github commands
+- `git add .`
+- `git commit -m "message"`
+- `git push -u origin main`
+
+
+
+
+
+
+
+
+
+
