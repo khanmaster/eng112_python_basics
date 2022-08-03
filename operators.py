@@ -59,21 +59,21 @@
 # # find a method to bring the statement in capital/small letters then first letter capital
 #
 #
-# # how to replace text within the string
+# # # how to replace text within the string
+# #
+# # print(example_text.replace("With ", " ,"))
 #
-# print(example_text.replace("With ", " ,"))
-
-#  Concatenation & Casting
-
-first_name = "James"
-mid_name = "Bond"
-last_name = "007"
-age = "47" # int
-address = 33
-account_details  = "2342342324"
-print(str(age))
-
-print(first_name + " " + mid_name + " " + last_name + " " + str(age))
+# #  Concatenation & Casting
+#
+# first_name = "James"
+# mid_name = "Bond"
+# last_name = "007"
+# age = "47" # int
+# address = 33
+# account_details  = "2342342324"
+# print(str(age))
+#
+# print(first_name + " " + mid_name + " " + last_name + " " + str(age))
 
 
 
@@ -84,20 +84,45 @@ print(first_name + " " + mid_name + " " + last_name + " " + str(age))
 # print(last_name)
 # select ctr /
 
+# shopping_list = ["eggs", "bread", "banana", "milk"]
+# shopping_list[0] = "water" # replace
+# print(shopping_list)
+
+# print(shopping_list)
+#
+# print(shopping_list[0])
+# print(shopping_list[-1])
+#
+# shopping_list.append("ice cream")
+#
+# print(shopping_list)
+#
+# shopping_list.remove("eggs")
+# print(shopping_list)
+#
+# print(shopping_list.pop())
+# mixed_list = [1, 2, 3, "one", "two", "three"]
+# print(mixed_list[1:3])
 
 
 
 
+# mendatory_items = ("paracetamol", "fruits", "beans")
+# print(mendatory_items)
+# print(mendatory_items.count("milk"))
+#
+# print(mendatory_items[0])
 
-
-
-
-
-
-
-
-
-
+# student_1 = {
+#     "name": "susan",
+#     "stream": "tech",
+#     "completed_lesxfssons": 4,
+#     "completed_lesson_names": ["variables", "data_types", "set up"]
+# }
+#
+# print(student_1["completed_lesson_names"][0])
+# print(student_1.keys())
+# print(student_1.values())
 
 
 
